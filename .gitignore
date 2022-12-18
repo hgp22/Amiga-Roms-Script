@@ -1,0 +1,5 @@
+# Ignore log files from geckodriver
+*.log
+
+# Ignore temp files from emacs
+*~
